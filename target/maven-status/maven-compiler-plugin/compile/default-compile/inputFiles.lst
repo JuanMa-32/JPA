@@ -1,0 +1,13 @@
+C:\Users\NALDO\OneDrive\Documentos\NetBeansProjects\LibreriaJPA\src\main\java\libreria\LibreriaJPA.java
+C:\Users\NALDO\OneDrive\Documentos\NetBeansProjects\LibreriaJPA\src\main\java\libreria\persistencia\LibroJpaController.java
+C:\Users\NALDO\OneDrive\Documentos\NetBeansProjects\LibreriaJPA\src\main\java\libreria\entidades\Editorial.java
+C:\Users\NALDO\OneDrive\Documentos\NetBeansProjects\LibreriaJPA\src\main\java\libreria\entidades\Autor.java
+C:\Users\NALDO\OneDrive\Documentos\NetBeansProjects\LibreriaJPA\src\main\java\libreria\persistencia\exceptions\PreexistingEntityException.java
+C:\Users\NALDO\OneDrive\Documentos\NetBeansProjects\LibreriaJPA\src\main\java\libreria\service\LibroService.java
+C:\Users\NALDO\OneDrive\Documentos\NetBeansProjects\LibreriaJPA\src\main\java\libreria\persistencia\EditorialJpaController.java
+C:\Users\NALDO\OneDrive\Documentos\NetBeansProjects\LibreriaJPA\src\main\java\libreria\persistencia\exceptions\IllegalOrphanException.java
+C:\Users\NALDO\OneDrive\Documentos\NetBeansProjects\LibreriaJPA\src\main\java\libreria\service\EditorialService.java
+C:\Users\NALDO\OneDrive\Documentos\NetBeansProjects\LibreriaJPA\src\main\java\libreria\service\AutorService.java
+C:\Users\NALDO\OneDrive\Documentos\NetBeansProjects\LibreriaJPA\src\main\java\libreria\entidades\Libro.java
+C:\Users\NALDO\OneDrive\Documentos\NetBeansProjects\LibreriaJPA\src\main\java\libreria\persistencia\exceptions\NonexistentEntityException.java
+C:\Users\NALDO\OneDrive\Documentos\NetBeansProjects\LibreriaJPA\src\main\java\libreria\persistencia\AutorJpaController.java
